@@ -1,0 +1,1 @@
+// Register user with Firebase Auth
